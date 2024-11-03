@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.nav-item{
+    border: 2px solid whitesmoke;
+    margin-right: 10px;
+}
+#banner_container{
+    padding: 0px;
+}
+#img3{
+    height: 245px;
+   
+}
+#banner_container1{
+    padding: 0px;
+}
+#snow{
+    height: 242px;
+}
+#sea{
+    height: 241px;
+}
+#leaf{
+    height: 241px;
+}
+.contact-section{
+    background: url('https://st.depositphotos.com/1734628/2671/i/450/depositphotos_26712427-stock-photo-highland-highway-in-central-america.jpg') no-repeat center center/cover;
+    opacity:0.8;
+    color: white;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+.background-transparent{
+    background-color: transparent;
+}
+.form-group{
+    opacity: 0.5;   
+}
+.row{
+    opacity: 0.5;
+}
+.col{
+    opacity: 0.5;
+}
